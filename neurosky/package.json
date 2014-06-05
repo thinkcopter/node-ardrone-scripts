@@ -1,0 +1,13 @@
+{
+	"name" : "my-test",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"node-neurosky" : "x",
+		"dronestream": "1.1.0",
+		"ar-drone": "0.1.0"
+	},
+	"engines" : {
+		"node" : "0.10.x",
+		"nmp" : "1.2.x"
+	}
+}
